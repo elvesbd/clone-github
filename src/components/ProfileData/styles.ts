@@ -45,7 +45,7 @@ export const Avatar = styled.img`
     width: 100%;
     margin-top: 34px;
   }
-`;
+`;    
 
 export const Row = styled.ul`
   display: flex;
